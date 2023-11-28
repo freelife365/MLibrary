@@ -28,3 +28,6 @@
 [submodule "3rdparty/curlpp"]
 	path = 3rdparty/curlpp
 	url = https://github.com/jpbarrette/curlpp.git
+[submodule "3rdparty/date"]
+	path = 3rdparty/date
+	url = https://github.com/HowardHinnant/date.git
