@@ -1,0 +1,30 @@
+[submodule "3rdparty/pugixml"]
+	path = 3rdparty/pugixml
+	url = https://github.com/zeux/pugixml.git
+[submodule "3rdparty/sqlitecpp"]
+	path = 3rdparty/sqlitecpp
+	url = https://github.com/SRombauts/SQLiteCpp.git
+[submodule "3rdparty/nlohmann-json"]
+	path = 3rdparty/nlohmann-json
+	url = https://github.com/nlohmann/json.git
+[submodule "3rdparty/cpp-httplib"]
+	path = 3rdparty/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
+[submodule "3rdparty/spdlog"]
+	path = 3rdparty/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "3rdparty/libzippp"]
+	path = 3rdparty/libzippp
+	url = https://github.com/ctabin/libzippp.git
+[submodule "3rdparty/yaml-cpp"]
+	path = 3rdparty/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "3rdparty/mINI"]
+	path = 3rdparty/mINI
+	url = https://github.com/pulzed/mINI.git
+[submodule "3rdparty/cpr"]
+	path = 3rdparty/cpr
+	url = https://github.com/libcpr/cpr.git
+[submodule "3rdparty/curlpp"]
+	path = 3rdparty/curlpp
+	url = https://github.com/jpbarrette/curlpp.git
