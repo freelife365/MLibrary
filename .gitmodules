@@ -34,3 +34,6 @@
 [submodule "3rdparty/jsonrpc-cxx"]
 	path = 3rdparty/jsonrpc-cxx
 	url = https://github.com/jsonrpcx/json-rpc-cxx.git
+[submodule "3rdparty/cxxopts"]
+	path = 3rdparty/cxxopts
+	url = https://github.com/jarro2783/cxxopts.git
